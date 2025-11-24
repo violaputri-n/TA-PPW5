@@ -45,12 +45,6 @@ Tombol memiliki efek hover & shadow halus
 
 Responsif untuk mobile dan desktop
 
-📂 Struktur Folder
-/
-│── index.html
-│── style.css
-└── script.js
-
 🚀 Cara Menjalankan
 
 Download semua file proyek.
@@ -74,8 +68,3 @@ HTML5 – struktur halaman
 CSS3 – styling UI
 
 JavaScript – logika kalkulator dan manajemen riwayat/memory
-
-👩‍💻 Pembuat
-
-Viola Putri Nurmadhani
-Proyek tugas aplikasi kalkulator interaktif berbasis web.
